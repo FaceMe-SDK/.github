@@ -2,4 +2,4 @@
 ## Contact
 <a target="_blank" href="mailto:support@faceme.tw"><img src="https://img.shields.io/badge/email-support@faceme.tw-blue.svg?logo=gmail " alt="www.faceme.tw"></a>&emsp;
 <a target="_blank" href="https://t.me/FaceMeSupportBot"><img src="https://img.shields.io/badge/telegram-@FaceMeSupportBot-blue.svg?logo=telegram " alt="www.faceme.tw"></a>&emsp;
-<a target="_blank" href="https://wa.me/+85281975550"><img src="https://img.shields.io/badge/whatsapp-facemesdk-blue.svg?logo=whatsapp " alt="www.faceme.tw">
+<a target="_blank" href="https://wa.me/message/GOTJ7RHUOOIEM1"><img src="https://img.shields.io/badge/whatsapp-facemesdk-blue.svg?logo=whatsapp " alt="www.faceme.tw">
